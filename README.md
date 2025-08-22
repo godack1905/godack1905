@@ -57,6 +57,7 @@
 
 - 💼 LinkedIn: [linkedin.com/in/isaias](https://www.linkedin.com/in/isa%C3%ADas-vela-sotil-b436431a4/)
 - ✉️ Email: isaiasvelasotil@gmail.com
+- 🌐 Personal WebSite: [My personal web](https://godack1905.github.io/godack.github.io/)
 
 ---
 ✨ *“Code, learn, break, repeat.”*  
