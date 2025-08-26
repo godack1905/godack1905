@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Isaías
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5F42DF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Junior+Pentester+&+SOC+Analyst;Backend+Developer+%7C+Java+%26+Flask;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5F42DF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Junior+Pentester+%26+SOC+Analyst;Backend+Developer+%7C+Java+%26+Flask;Cybersecurity+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
