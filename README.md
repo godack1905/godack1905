@@ -1,11 +1,8 @@
 # 👋 Hi there, I'm Isaías
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5F42DF&center=true&vCenter=true&width=600&lines=DevOps+%26+Cybersecurity+Enthusiast;Backend+Developer)](https://git.io/typing-svg)
-
----
 
 ## 🚀 About Me  
-- Passionate about **DevOps**, **cybersecurity**, and **backend development**  
+- Passionate about **DevOps** and **cybersecurity** 
 - Currently studying **Computer Engineering** (Information Technologies)  
 - Enjoy digging into how systems work — and how to make them faster, safer, and cleaner  
 
