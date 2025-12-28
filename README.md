@@ -45,18 +45,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-
----
-
-## 📈 GitHub Stats  
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=godack1905&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godack1905&layout=compact&theme=tokyonight)  
-
-</div>
-
 ---
 ## Certifications
 
