@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me  
-- Passionate about **DevOps** and **cybersecurity** 
+- Passionate about **DevOps**, **Web Development** and **cybersecurity** 
 - Currently studying **Computer Engineering** (Information Technologies)  
 - Enjoy digging into how systems work — and how to make them faster, safer, and cleaner  
 
